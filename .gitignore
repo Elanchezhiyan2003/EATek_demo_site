@@ -36,3 +36,4 @@ out/
 tsconfig.tsbuildinfo
 bun.lockb
 pnpm-lock.yaml
+.env
